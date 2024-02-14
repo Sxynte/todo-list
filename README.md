@@ -16,7 +16,7 @@ Mohammad und Tommy, haben eine To-Do Liste in HTML mithilfe von CSS sowie Javasc
 - Um die To-Do List zu nutzen öffnen sie die "index.html".
 ![image](https://github.com/Sxynte/todolist/assets/81096340/909ec40f-4c26-41e9-8592-f586ceadbdd3)
 - Das sollten sie nun sehen.
-![image](https://github.com/Sxynte/todolist/assets/81096340/92eb7a8f-3501-4920-86d4-2c143ec9ffb7)
+![image](https://github.com/Sxynte/todo-list/assets/81096340/3678c3e6-5349-4d77-830e-ce4c3adeb5f6)
 
 ## Verwendete Programmiersprachen
 - HTML -> Struktur, Webseite

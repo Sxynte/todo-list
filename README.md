@@ -28,3 +28,6 @@ Mohammad und Tommy, haben eine To-Do Liste in HTML mithilfe von CSS sowie Javasc
 
 # Autor
 Mohammad, Tommy
+
+### Speicherung der Daten
+- Die To-Do List wird lokal in den Browser Cookies/Cache gespeichert.
